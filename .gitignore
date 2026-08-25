@@ -1,0 +1,23 @@
+# Helper
+.asst/
+.claude/
+.devcontainer/
+AGENTS.md
+
+# Vim
+*.swo
+*.swp
+*.un~
+*~
+
+# Build output
+dist/
+node_modules/
+*.deb
+*.zip
+*.tar.gz
+package-lock.json
+
+# Windows
+desktop.ini
+Thumbs.db
