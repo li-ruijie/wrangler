@@ -1,7 +1,7 @@
 # wrangler packages
 
 Builds Windows and Debian packages of Cloudflare's `wrangler` for the scoop bucket at
-https://github.com/li-ruijie/scoop and the APT repository at https://li-ruijie.github.io/apt/.
+https://github.com/li-ruijie/scoop and the APT repository at https://apt.leefy.net/.
 Upstream publishes wrangler only to npm, so there is no binary release to repackage.
 
 ## Assets
